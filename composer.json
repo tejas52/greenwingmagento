@@ -15,6 +15,5 @@
       "psr-4": {
         "Greenwing\\Technology\\": ""
       }
-  },
-  "minimum-stability": "stable"
+  }
 }
